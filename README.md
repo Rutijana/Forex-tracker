@@ -20,6 +20,3 @@ A web application for real-time currency conversion and historical exchange rate
 
 Currency Conversion and Exchange Rates API from RapidAPI
 
-## License
-
-MIT
