@@ -14,8 +14,7 @@ A web application for real-time currency conversion and historical exchange rate
 
 1. Clone the repository
 2. Open `index.html` in a browser
-3. No API key needed (demo key included)
-
+   
 ## API Used
 
 Currency Conversion and Exchange Rates API from RapidAPI
